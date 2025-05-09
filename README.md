@@ -48,5 +48,5 @@ IMPORTANT: Do not run this script on any system you do not own or have permissio
   - "password" → your Gmail App Password (not regular password)
 3. Run the script:
   ```bash
-python keylogger.py
+python keystroker.py
   ```
